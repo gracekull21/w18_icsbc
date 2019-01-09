@@ -4,3 +4,10 @@
 
 
 ### Your Code Here ###
+'What is your first name?'
+first = gets.chomp
+'Great, what is your middle name?'
+middle = gets.chomp
+'What is your last name?'
+last = gets.chomp
+'Hello, ' + first + ' ' + middle + ' ' + last + '!'
