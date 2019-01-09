@@ -5,3 +5,8 @@
 
 
 ### Your Code Here ###
+#I'm calculating hours in a normal year
+num_days = 365
+hours_per_day = 24
+hours_in_year = num_days * hours_per_day
+hours_in_year
