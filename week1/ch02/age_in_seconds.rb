@@ -26,3 +26,4 @@ total_days = leap_year_days + normal_year_days + partial_year_days
 total_hours = 24 * total_days
 total_minutes = 60 * total_hours
 total_seconds = 60 * total_minutes
+total_seconds
