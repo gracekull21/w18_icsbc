@@ -3,10 +3,10 @@
 ### Get input from user: ###
 print "Please enter a starting year: "
 starting = gets.chomp ## FIXME?
-#puts starting
+puts starting
 print "Now enter a ending year: "
 ending = gets.chomp ## FIXME?
-#puts ending
+puts ending
 
 ### Rest of your code here ###
 year = starting.to_i
